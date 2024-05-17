@@ -29,7 +29,7 @@ Repositório da API*: [GitHub - garethbjohnson/gutendex: Web API for Project Gut
 </div>
 <br>
 <div align="center">
-<img src="https://github.com/mario-evangelista/literalura/assets/121322767/c943333a-df47-47f0-999a-b9406676d97f" width="700px" />
+<img src="https://github.com/mario-evangelista/literalura/assets/121322767/b6af8d14-8b7b-4098-aa9e-d36176ff3e2b" width="700px" />
 </div>
 <br>
 <div align="center">
