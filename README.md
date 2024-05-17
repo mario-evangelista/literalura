@@ -73,7 +73,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 Para mais informações, entre em contato através do email: mario@gmail.com
 
-**Link do Projeto:** [https://github.com/mario-evangelista/literalura](https://github.com/mario-evngelista/literalura)
+**Link do Projeto:** [https://github.com/mario-evangelista/literalura](https://github.com/mario-evangelista/literalura)
 <br>
 **Meu Perfil na Alura:** [https://cursos.alura.com.br/user/mariojbe](https://cursos.alura.com.br/user/mariojbe)
 
