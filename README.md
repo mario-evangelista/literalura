@@ -19,6 +19,7 @@ Repositório da API*: [GitHub - garethbjohnson/gutendex: Web API for Project Gut
 9. Buscar autor por ano de falecimento (no banco de dados)
 10. Estatísticas da quantidade de download dos livros (no banco de dados)
 
+<br>
 <div align="center">
 <img src="https://github.com/mario-evangelista/literalura/assets/121322767/80395ab9-6d49-4fff-befc-ea6a79867c75" width="700px" />
 </div>
