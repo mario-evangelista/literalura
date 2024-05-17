@@ -8,16 +8,16 @@ Repositório da API*: [GitHub - garethbjohnson/gutendex: Web API for Project Gut
 
 ## Funcionalidades
 
-1. Buscar livro por titulo
-2. Listar livros registrados
-3. Lista autores registrados
-4. Listar autores vivos em um determinado ano
-5. Listar livros em um determinado idioma
-6. Listar Top 10 livros mais baixados
-7. Buscar autor por nome
-8. Buscar autor por ano de nascimento
-9. Buscar autor por ano de falecimento
-10. Estatísticas de download
+1. Buscar livro por titulo (na API Gutendex)
+2. Listar livros registrados (no banco de dados)
+3. Lista autores registrados (no banco de dados)
+4. Listar autores vivos em um determinado ano (no banco de dados)
+5. Listar livros em um determinado idioma (no banco de dados)
+6. Listar Top 10 livros mais baixados (no banco de dados)
+7. Buscar autor por nome (no banco de dados)
+8. Buscar autor por ano de nascimento (no banco de dados)
+9. Buscar autor por ano de falecimento (no banco de dados)
+10. Estatísticas da quantidade de download dos livros (no banco de dados)
 
 ## Tecnologias Utilizadas
 
