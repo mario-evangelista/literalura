@@ -24,6 +24,22 @@ Repositório da API*: [GitHub - garethbjohnson/gutendex: Web API for Project Gut
 <img src="https://github.com/mario-evangelista/literalura/assets/121322767/80395ab9-6d49-4fff-befc-ea6a79867c75" width="700px" />
 </div>
 <br>
+<div align="center">
+<img src="https://github.com/mario-evangelista/literalura/assets/121322767/e50b0244-cb4b-4749-8f45-de7d095efa1b" width="700px" />
+</div>
+<br>
+<div align="center">
+<img src="https://github.com/mario-evangelista/literalura/assets/121322767/c943333a-df47-47f0-999a-b9406676d97f" width="700px" />
+</div>
+<br>
+<div align="center">
+<img src="https://github.com/mario-evangelista/literalura/assets/121322767/33286b9f-c4b2-4b83-ad0c-397a88fe54a4" width="700px" />
+</div>
+<br>
+<div align="center">
+<img src="https://github.com/mario-evangelista/literalura/assets/121322767/e96ae339-ac40-4eed-af37-8271d0cedeb0" width="700px" />
+</div>
+<br>
 
 ## Tecnologias Utilizadas
 
