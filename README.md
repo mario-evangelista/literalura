@@ -4,7 +4,7 @@
 - Este é o repositório do projeto LiterAlura, um catálogo de livros desenvolvido em Java 17. A aplicação permite buscar, armazenar e exibir informações sobre livros e autores.
 - A API Gutendex é um catálogo com informações sobre os mais de 70 mil livros presentes no Project Gutenberg (biblioteca online gratuita):
 Link da API: [Gutendex](https://gutendex.com/)
-Repositório da API*: GitHub - garethbjohnson/gutendex: Web API for Project Gutenberg ebook metadata
+Repositório da API*: [GitHub - garethbjohnson/gutendex: Web API for Project Gutenberg ebook metadata](https://github.com/garethbjohnson/gutendex)
 
 ## Funcionalidades
 
