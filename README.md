@@ -77,6 +77,4 @@ Para mais informações, entre em contato através do email: mario@gmail.com
 <br>
 **Meu Perfil na Alura:** [https://cursos.alura.com.br/user/mariojbe](https://cursos.alura.com.br/user/mariojbe)
 
---- 
-
-Este README serve como um guia inicial para o projeto LiterAlura, fornecendo informações sobre como executá-lo, como contribuir e sobre as tecnologias utilizadas. Ele pode ser expandido e personalizado conforme necessário.
+---
